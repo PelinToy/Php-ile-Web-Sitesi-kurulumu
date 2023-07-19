@@ -20,7 +20,7 @@ Sitenin Ana Sayfa, Servis, Portfolyo, Hakkımızda, İletişim bölümlerine ait
 
 ![Portfolyo-Modal1 1](https://github.com/PelinToy/Php-ile-Web-Sitesi-kurulumu/assets/111890867/a6242a82-27df-4835-a294-18c369c7e565)
 
-Siteyi CV gibi kullanılabilecek bir site olarak düzenledim.
+**********Siteyi CV gibi kullanılabilecek bir site olarak düzenledim.**********
 
 ![portfolyo-menu](https://github.com/PelinToy/Php-ile-Web-Sitesi-kurulumu/assets/111890867/c907f635-8f1e-4642-9854-23ff2daa4802)
 
