@@ -14,6 +14,7 @@ Sitenin Ana Sayfa, Servis, Portfolyo, Hakkımızda, İletişim bölümlerine ait
 ![Portfolyo1](https://github.com/PelinToy/Php-ile-Web-Sitesi-kurulumu/assets/111890867/a516ea05-d156-4218-a46a-332a7eea0cb2)
 
 ![Portfolyo2](https://github.com/PelinToy/Php-ile-Web-Sitesi-kurulumu/assets/111890867/2f270a6c-f01c-47d3-8054-8195498bff39)
+![Portfolyo-Modal1 2](https://github.com/PelinToy/Php-ile-Web-Sitesi-kurulumu/assets/111890867/5daa058f-7630-49e3-8e25-d18d80a00777)
 
 ![Portfolyo-Modal-ekleme1](https://github.com/PelinToy/Php-ile-Web-Sitesi-kurulumu/assets/111890867/6507473d-0e81-416f-a0d0-883914f41b2c)
 
