@@ -1,6 +1,8 @@
 # Php-ile-Web-Sitesi-kurulumu
 Php, PhpStorm ve MySQL veri tabanı kullanılarak site yapımı
 
+Sitenin Ana Sayfa, Servis, Portfolyo, Hakkımızda, İletişim bölümlerine ait resimler.
+
 ![Portfolyo1](https://github.com/PelinToy/Php-ile-Web-Sitesi-kurulumu/assets/111890867/b257c5e7-13d8-4de8-b0c9-69490abd57ba)
 
 ![hakkımızda0](https://github.com/PelinToy/Php-ile-Web-Sitesi-kurulumu/assets/111890867/2b8960ed-eaeb-4d4d-8bf4-3f434bcd2331)
